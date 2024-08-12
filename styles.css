@@ -1,0 +1,18 @@
+body{
+    justify-content: center;
+    align-items: center;
+}
+.tarjeta{
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid #000000;
+}
+.perfil{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+p,button{
+    text-align: center;
+}
